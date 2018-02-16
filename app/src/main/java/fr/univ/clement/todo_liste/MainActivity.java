@@ -34,8 +34,6 @@ public class MainActivity extends AppCompatActivity {
 
         recycler.setItemAnimator(new DefaultItemAnimator());
         recycler.setAdapter(itemAdapter);
-
-
     }
 
     @Override
